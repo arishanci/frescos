@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <!-- Fresh Food -->
+    <product>
+        <category>Fresh Food</category>
+        <code>201-01</code>
+        <name>Strawberry</name>
+        <description>Fresh organic strawberries, packed full of flavor.</description>
+        <quantity>100</quantity>
+        <unitPrice>2.99</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-02</code>
+        <name>Banana</name>
+        <description>Ripe bananas, perfect for a quick snack.</description>
+        <quantity>150</quantity>
+        <unitPrice>0.79</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-03</code>
+        <name>Melon</name>
+        <description>Juicy melon, great for a refreshing treat.</description>
+        <quantity>50</quantity>
+        <unitPrice>3.49</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-04</code>
+        <name>Apple</name>
+        <description>Crunchy apples, rich in vitamins.</description>
+        <quantity>200</quantity>
+        <unitPrice>1.49</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-05</code>
+        <name>Orange</name>
+        <description>Sweet and tangy oranges, packed with vitamin C.</description>
+        <quantity>180</quantity>
+        <unitPrice>1.29</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-06</code>
+        <name>Grapes</name>
+        <description>Seedless grapes, perfect for snacking.</description>
+        <quantity>120</quantity>
+        <unitPrice>2.99</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-07</code>
+        <name>Blueberries</name>
+        <description>Fresh blueberries, great for baking and snacking.</description>
+        <quantity>90</quantity>
+        <unitPrice>4.49</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-08</code>
+        <name>Pineapple</name>
+        <description>Sweet and tangy pineapple, perfect for salads.</description>
+        <quantity>60</quantity>
+        <unitPrice>2.99</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-09</code>
+        <name>Kiwi</name>
+        <description>Zesty kiwi, high in vitamin C.</description>
+        <quantity>100</quantity>
+        <unitPrice>0.99</unitPrice>
+    </product>
+    <product>
+        <category>Fresh Food</category>
+        <code>201-10</code>
+        <name>Avocado</name>
+        <description>Creamy avocado, perfect for salads and sandwiches.</description>
+        <quantity>80</quantity>
+        <unitPrice>1.99</unitPrice>
+    </product>
+
+    <!-- Meat Category -->
+    <product>
+        <category>Meat</category>
+        <code>202-01</code>
+        <name>Beef</name>
+        <description>High-quality beef, perfect for steaks.</description>
+        <quantity>50</quantity>
+        <unitPrice>8.99</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-02</code>
+        <name>Minced Beef</name>
+        <description>Fresh minced beef, ideal for burgers and meatballs.</description>
+        <quantity>60</quantity>
+        <unitPrice>5.99</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-03</code>
+        <name>Chicken Breast</name>
+        <description>Lean chicken breast, great for healthy meals.</description>
+        <quantity>70</quantity>
+        <unitPrice>6.49</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-04</code>
+        <name>Pork Chops</name>
+        <description>Juicy pork chops, perfect for grilling.</description>
+        <quantity>40</quantity>
+        <unitPrice>7.99</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-05</code>
+        <name>Bacon</name>
+        <description>Crispy bacon, great for breakfast.</description>
+        <quantity>80</quantity>
+        <unitPrice>4.99</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-06</code>
+        <name>Sausage</name>
+        <description>Delicious sausages, perfect for BBQs.</description>
+        <quantity>90</quantity>
+        <unitPrice>5.49</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-07</code>
+        <name>Turkey</name>
+        <description>Fresh turkey, ideal for a festive roast.</description>
+        <quantity>30</quantity>
+        <unitPrice>12.99</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-08</code>
+        <name>Lamb Chops</name>
+        <description>Tender lamb chops, perfect for roasting.</description>
+        <quantity>35</quantity>
+        <unitPrice>10.99</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-09</code>
+        <name>Ham</name>
+        <description>Succulent ham, great for sandwiches.</description>
+        <quantity>60</quantity>
+        <unitPrice>6.99</unitPrice>
+    </product>
+    <product>
+        <category>Meat</category>
+        <code>202-10</code>
+        <name>Duck</name>
+        <description>Rich and flavorful duck, perfect for special occasions.</description>
+        <quantity>20</quantity>
+        <unitPrice>14.99</unitPrice>
+    </product>
+
+    <!-- Frozen Category -->
+    <product>
+        <category>Frozen</category>
+        <code>203-01</code>
+        <name>Frozen Peas</name>
+        <description>Freshly frozen peas, perfect for quick meals.</description>
+        <quantity>120</quantity>
+        <unitPrice>2.49</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-02</code>
+        <name>Frozen Pizza</name>
+        <description>Delicious frozen pizza, ready in minutes.</description>
+        <quantity>100</quantity>
+        <unitPrice>5.99</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-03</code>
+        <name>Ice Cream</name>
+        <description>Creamy ice cream, perfect for dessert.</description>
+        <quantity>150</quantity>
+        <unitPrice>4.99</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-04</code>
+        <name>Frozen Berries</name>
+        <description>Mixed frozen berries, ideal for smoothies.</description>
+        <quantity>80</quantity>
+        <unitPrice>3.99</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-05</code>
+        <name>Frozen Vegetables</name>
+        <description>Mixed frozen vegetables, ready to cook.</description>
+        <quantity>110</quantity>
+        <unitPrice>2.99</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-06</code>
+        <name>Frozen Fish Fillets</name>
+        <description>Frozen fish fillets, great for quick meals.</description>
+        <quantity>60</quantity>
+        <unitPrice>6.99</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-07</code>
+        <name>Frozen French Fries</name>
+        <description>Golden frozen fries, perfect for a quick side dish.</description>
+        <quantity>140</quantity>
+        <unitPrice>3.49</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-08</code>
+        <name>Frozen Chicken Nuggets</name>
+        <description>Crispy frozen chicken nuggets, kids' favorite.</description>
+        <quantity>90</quantity>
+        <unitPrice>5.99</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-09</code>
+        <name>Frozen Lasagna</name>
+        <description>Hearty frozen lasagna, ready in minutes.</description>
+        <quantity>70</quantity>
+        <unitPrice>7.99</unitPrice>
+    </product>
+    <product>
+        <category>Frozen</category>
+        <code>203-10</code>
+        <name>Frozen Yogurt</name>
+        <description>Refreshing frozen yogurt, a healthy treat.</description>
+        <quantity>130</quantity>
+        <unitPrice>4.49</unitPrice>
+    </product>
+
+    <!-- Drinks Category -->
+    <product>
+        <category>Drinks</category>
+        <code>204-01</code>
+        <name>Orange Juice</name>
+        <description>Freshly squeezed orange juice, no added sugar.</description>
+        <quantity>200</quantity>
+        <unitPrice>3.99</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-02</code>
+        <name>Apple Juice</name>
+        <description>Pure apple juice, naturally sweetened.</description>
+        <quantity>180</quantity>
+        <unitPrice>3.49</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-03</code>
+        <name>Cola</name>
+        <description>Classic cola, refreshing and fizzy.</description>
+        <quantity>300</quantity>
+        <unitPrice>1.49</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-04</code>
+        <name>Lemonade</name>
+        <description>Refreshing lemonade, perfect for summer days.</description>
+        <quantity>150</quantity>
+        <unitPrice>2.99</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-05</code>
+        <name>Mineral Water</name>
+        <description>Natural mineral water, crisp and clean.</description>
+        <quantity>400</quantity>
+        <unitPrice>0.99</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-06</code>
+        <name>Energy Drink</name>
+        <description>Boost your energy with our powerful energy drink.</description>
+        <quantity>250</quantity>
+        <unitPrice>2.49</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-07</code>
+        <name>Iced Tea</name>
+        <description>Cool and refreshing iced tea, with a hint of lemon.</description>
+        <quantity>170</quantity>
+        <unitPrice>1.99</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-08</code>
+        <name>Milk</name>
+        <description>Fresh dairy milk, rich in calcium.</description>
+        <quantity>220</quantity>
+        <unitPrice>1.49</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-09</code>
+        <name>Coffee</name>
+        <description>Brewed coffee, strong and aromatic.</description>
+        <quantity>140</quantity>
+        <unitPrice>2.49</unitPrice>
+    </product>
+    <product>
+        <category>Drinks</category>
+        <code>204-10</code>
+        <name>Hot Chocolate</name>
+        <description>Rich and creamy hot chocolate, perfect for cold days.</description>
+        <quantity>130</quantity>
+        <unitPrice>2.99</unitPrice>
+    </product>
+
+    <!-- Bakery Category -->
+    <product>
+        <category>Bakery</category>
+        <code>205-01</code>
+        <name>Bread</name>
+        <description>Freshly baked bread, soft and delicious.</description>
+        <quantity>100</quantity>
+        <unitPrice>2.49</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-02</code>
+        <name>Croissant</name>
+        <description>Buttery and flaky croissants, perfect for breakfast.</description>
+        <quantity>80</quantity>
+        <unitPrice>1.99</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-03</code>
+        <name>Muffin</name>
+        <description>Sweet muffins with chocolate chips.</description>
+        <quantity>90</quantity>
+        <unitPrice>1.49</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-04</code>
+        <name>Baguette</name>
+        <description>Classic French baguette, crispy on the outside, soft on the inside.</description>
+        <quantity>70</quantity>
+        <unitPrice>2.99</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-05</code>
+        <name>Donut</name>
+        <description>Glazed donuts, a sweet treat for any time of day.</description>
+        <quantity>120</quantity>
+        <unitPrice>1.29</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-06</code>
+        <name>Bagel</name>
+        <description>Chewy bagels, perfect with cream cheese.</description>
+        <quantity>60</quantity>
+        <unitPrice>1.99</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-07</code>
+        <name>Cake</name>
+        <description>Rich and moist chocolate cake, perfect for celebrations.</description>
+        <quantity>50</quantity>
+        <unitPrice>14.99</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-08</code>
+        <name>Pancake</name>
+        <description>Fluffy pancakes, just add syrup.</description>
+        <quantity>140</quantity>
+        <unitPrice>2.49</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-09</code>
+        <name>Brownie</name>
+        <description>Fudgy brownies, rich in chocolate.</description>
+        <quantity>100</quantity>
+        <unitPrice>1.99</unitPrice>
+    </product>
+    <product>
+        <category>Bakery</category>
+        <code>205-10</code>
+        <name>Scone</name>
+        <description>Traditional scones, perfect with jam and cream.</description>
+        <quantity>90</quantity>
+        <unitPrice>2.29</unitPrice>
+    </product>
+</products>

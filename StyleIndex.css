@@ -1,0 +1,64 @@
+/* StyleIndex.css */
+
+/* Product List Section */
+.product-list {
+    padding: 20px;
+    background-color: #f9f4eb;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.product-list h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.search-section {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+.product-list input {
+    padding: 10px;
+    margin-right: 10px;
+    border: 1px solid #d3d3d3;
+    border-radius: 5px;
+    width: 200px;
+}
+
+.product-list button {
+    padding: 10px 20px;
+    background-color: #6b8e23;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.product-list button:hover {
+    background-color: #556b2f;
+}
+
+.product-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.product-list table th, 
+.product-list table td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+
+.product-list table th {
+    background-color: #f2f2f2;
+}
+
+#searchResult {
+    text-align: center;
+    margin-bottom: 15px;
+    font-weight: bold;
+}

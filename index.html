@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Fresh and locally sourced produce nearby you! Visit our store online or in person to see current offer!">
+    <link rel="stylesheet" href="./StyleIndex.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <!-- Connecting Font Awesome -->
+    <script src="https://kit.fontawesome.com/d8fa2073a1.js" crossorigin="anonymous"></script>
+    <title>Frescos</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <a href="index.html"><img src="./frescos logo.png" alt="logo"></a>
+        </div>
+        <nav class="navbar">
+            <ul>
+                <li><a href="#fresh-food">Fresh Food</a></li>
+                <li><a href="#bakery">Bakery</a></li>
+                <li><a href="#frozen">Frozen</a></li>
+                <li><a href="#drinks">Drinks</a></li>
+                <li><a href="#meat">Baby</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+
+        <!-- Product List Section -->
+        <section class="product-list">
+            <h1>Product List</h1>
+            <div class="search-section">
+                <input type="text" id="searchCode" placeholder="Enter Product Code">
+                <button onclick="searchProduct()">Search</button>
+            </div>
+            <p id="searchResult"></p>
+            <table border="1" id="productTable">
+                <thead>
+                    <tr>
+                        <th>Category</th>
+                        <th>Code</th>
+                        <th>Name</th>
+                        <th>Description</th>
+                        <th>Quantity</th>
+                        <th>Unit Price</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <!-- Product rows will be populated here by JavaScript -->
+                </tbody>
+            </table>
+        </section>
+    </main>
+
+    <!-- Link to the external JavaScript file -->
+    <script src="index.js"></script>
+</body>
+</html>
